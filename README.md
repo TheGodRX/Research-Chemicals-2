@@ -4,6 +4,12 @@
 
 This guide provides detailed instructions for preparing nootropic pellets known as "Pink F*ck". This compound combines MDPM, Mephedrone, Blue Lotus Extract Resin, AKB48, and 2C-B-FLY, with a natural pink colorant and Microcrystalline Cellulose (MCC) as a binder.
 
+## Structural Formula
+
+Here is the structural formula for "Pink F*ck":
+
+![Structural Formula](https://raw.githubusercontent.com/codercoins/Research-Chemicals-2/main/CC(C(%3DO)O)CCO.C1%3DCC(%3DC(C%3DC1)O)C2%3DCC(%3DC(C%3DC2)O)C(%3DO)O.CC(C(%3DO)O)CCO.NC(C)C.CC1%3DCC(%3DC(C%3DC1)S(%3DO)(%3DO)O)C2%3DCC(%3DC(C%3DC2)O)C(%3DO)O%20(structural%20formula)AKA-PINKFCK.png)
+
 ## SMILES Code for Pink F*ck
 
 The SMILES code for the proposed compound "Pink F*ck" is:
