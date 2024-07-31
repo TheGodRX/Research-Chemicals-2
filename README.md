@@ -1,8 +1,8 @@
-# Pink F*ck - Nootropic Pellet Preparation Guide
+# Pink F*ck - Nootropic Healthy Legal High: Pellet Preparation Guide
 
 ## Introduction
 
-This guide provides detailed instructions for preparing nootropic pellets known as "Pink F*ck". This compound combines MDPM, Mephedrone, Blue Lotus Extract Resin, AKB48, and 2C-B-FLY, with a natural pink colorant and Microcrystalline Cellulose (MCC) as a binder.
+This guide provides detailed instructions for preparing nootropic pellets known as "Pink F*ck". This compound combines MDPM, Mephedrone, Blue Lotus Extract Resin, AKB48, and 2C-B-FLY, with a natural pink colorant and CMC Powder (Tylose) as a binder.
 
 ## Structural Formula
 
@@ -22,8 +22,8 @@ CC(C(=O)O)CCO.C1=CC(=C(C=C1)O)C2=CC(=C(C=C2)O)C(=O)O.CC(C(=O)O)CCO.NC(C)C.CC1=CC
 - **Blue Lotus Extract Resin**: 10 mg
 - **AKB48**: 10 mg
 - **2C-B-FLY**: 10 mg
-- **Natural Pink Colorant**: 5-10 mg (e.g., Beetroot Powder, adjust based on desired shade)
-- **Microcrystalline Cellulose (MCC)**: 50 mg
+- **Natural Pink Colorant**: 5-10 mg (e.g., Dragon Fruit Powder, adjust based on desired shade)
+- **CMC Powder (Tylose)**: 50 mg
 
 ## Preparation Steps
 
@@ -42,11 +42,11 @@ CC(C(=O)O)CCO.C1=CC(=C(C=C1)O)C2=CC(=C(C=C2)O)C(=O)O.CC(C(=O)O)CCO.NC(C)C.CC1=CC
 
 ### 2. Add MCC
 
-- **Measure MCC**:
-  - Weigh 50 mg of Microcrystalline Cellulose (MCC).
+- **Measure CMC**:
+  - Weigh 50 mg of CMC Powder (Tylose).
 
 - **Mix**:
-  - Add the MCC to the active ingredient mixture. Stir thoroughly to ensure even distribution and proper binding.
+  - Add the CMC to the active ingredient mixture. Stir thoroughly to ensure even distribution and proper binding.
 
 ### 3. Press the Pellets
 
@@ -79,4 +79,4 @@ CC(C(=O)O)CCO.C1=CC(=C(C=C1)O)C2=CC(=C(C=C2)O)C(=O)O.CC(C(=O)O)CCO.NC(C)C.CC1=CC
 
 ---
 
-**Note**: Adjust the amount of colorant and MCC as needed to fine-tune the appearance and texture of the pellets. Ensure all ingredients are properly measured and mixed to maintain the quality and effectiveness of the final product.
+**Note**: Adjust the amount of colorant and CMC as needed to fine-tune the appearance and texture of the pellets. Ensure all ingredients are properly measured and mixed to maintain the quality and effectiveness of the final product.
