@@ -8,7 +8,7 @@ This guide provides detailed instructions for preparing nootropic pellets known 
 
 Here is the structural formula for "Pink F*ck":
 
-<img src="https://raw.githubusercontent.com/codercoins/Research-Chemicals-2/main/CC(C(%3DO)O)CCO.C1%3DCC(%3DC(C%3DC1)O)C2%3DCC(%3DC(C%3DC2)O)C(%3DO)O.CC(C(%3DO)O)CCO.NC(C)C.CC1%3DCC(%3DC(C%3DC1)S(%3DO)(%3DO)O)C2%3DCC(%3DC(C%3DC2)O)C(%3DO)O%20(structural%20formula)AKA-PINKFCK.png" alt="Structural Formula" width="300" />
+<img src="https://raw.githubusercontent.com/codercoins/Research-Chemicals-2/main/CC(C(%3DO)O)CCO.C1%3DCC(%3DC(C%3DC1)O)C2%3DCC(%3DC(C%3DC2)O)C(%3DO)O.CC(C(%3DO)O)CCO.NC(C)C.CC1%3DCC(%3DC(C%3DC1)S(%3DO)(%3DO)O)C2%3DCC(%3DC(C%3DC2)O)C(%3DO)O%20(structural%20formula)AKA-PINKFCK.png" alt="Structural Formula" width="400" />
 
 ## SMILES Code for Pink F*ck
 
